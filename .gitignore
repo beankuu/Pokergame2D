@@ -1,0 +1,8 @@
+/bin/
+.classpath
+.project
+
+#intellij files
+/.idea/
+/.settings/
+*.iml
